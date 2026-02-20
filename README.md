@@ -82,6 +82,4 @@ This project is licensed under GPL-3.0. See the `LICENSE` file.
 If you use or adapt this project, please retain the copyright notice
 and license information.
 
-CLI Website Archiver by Marco Aures 
-Source: https://marcoaures.ch
-Licensed under GPL-3.0
+CLI Website Archiver by Marco Aures | Source: https://marcoaures.ch | Licensed under GPL-3.0
